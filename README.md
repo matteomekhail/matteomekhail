@@ -30,9 +30,10 @@ Over the years, I've been:
   <img src="https://skillicons.dev/icons?i=swift" title="Swift" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=shopify" title="Shopify Liquid" />
-  <img src="https://skillicons.dev/icons?i=C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=Java" title=Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
 </p>
+
 
 PHP (Laravel)  
 JavaScript / TypeScript  
