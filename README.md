@@ -18,32 +18,65 @@ Over the years, I've been:
 ---
 
 ## 🛠 Tech & Tools I Work With
+
 ### **Languages**
-- PHP (Laravel)
-- JavaScript / TypeScript  
-- Python (automation + AI experiments)
-- Swift (iOS prototypes)
-- SQL (MySQL, PostgreSQL)
-- Liquid (Shopify)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,swift,mysql,postgres,liquid" />
+</p>
+
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=swift" title="Swift" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=shopify" title="Shopify Liquid" />
+  <img src="https://skillicons.dev/icons?i=C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=Java" title=Java" />
+</p>
+
+PHP (Laravel)  
+JavaScript / TypeScript  
+Python (automation + AI experiments)  
+Swift (iOS prototypes)  
+SQL (MySQL, PostgreSQL)  
+Liquid (Shopify)
+C++ (How i started coding)
+Java (Mods and fun, love this language)
+
+---
 
 ### **Frameworks & Stacks**
-- **Laravel + Inertia + React + Tailwind**
-- **Node.js + Bun**
-- **Next.js** + all the classic stuff the we expect almost every developer to know
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,nodejs,bun,nextjs" />
+</p>
+
+**Laravel + Inertia + React + Tailwind**  
+**Node.js + Bun**  
+**Next.js** + all the classic stuff the we expect almost every developer to know
+
+---
 
 ### **AI & ML**
-- MCP (Model Context Protocol)  
-- OpenRouter models  
-- Custom embeddings + clustering  
-- Vision/image generation tools
-  
+
+MCP (Model Context Protocol)  
+OpenRouter models  
+Custom embeddings + clustering  
+Vision/image generation tools  
+Of course, LLM
+
+---
+
 ### **Tools I Can’t Live Without**
-- GitHub (even tho it sucks sometimes)
-- Cursor (my main IDE now)  
-- Stripe
-- Discord
-- Workos (Auth is a pain)
-- Zen Browser
+
+GitHub (even tho it sucks sometimes)  
+Cursor (my main IDE now)  
+Stripe  
+Discord  
+Workos (Auth is a pain)  
+Zen Browser  
 
 ---
 
