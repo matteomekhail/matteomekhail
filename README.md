@@ -52,7 +52,7 @@ Java (Mods and fun, love this language)
 </p>
 
 **Laravel + Inertia + React + Tailwind**  
-**Node.js + Bun**  
+**Node.js + Bun**  (Damn, i love Bun)
 **Next.js** + all the classic stuff the we expect almost every developer to know
 
 ---
