@@ -20,9 +20,6 @@ Over the years, I've been:
 ## 🛠 Tech & Tools I Work With
 
 ### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,swift,mysql,postgres,liquid" />
-</p>
 
 ### **Languages**
 <p align="left">
