@@ -4,12 +4,9 @@ I'm a software engineer and founder based in Sydney.
 I build products, automate everything I can
 
 Over the years, I've been:
-- Writing code since I was 14, yeah i know it may look like a long time, but minecraft mods in java were fun to write!
-- Creating systems that make life easier
+- Writing code since I was 14, yeah i know it may look like a long time, but minecraft mods in java were fun to write
 - Developing Full-Stack Application, that can vary from a basic website to a SaaS that i wish existed before when i needed them
-
 ---
-
 ## 🚀 What I’m Building
 
 - **StageTwo POS** — point-of-sale and hospitality software made with Laravel + React  
@@ -82,6 +79,7 @@ Zen Browser
 - **GitHub:** you're already here 😄  
 - **Instagram:** @matteomekhail  
 - **Email:** matteomekhail04@gmail.com
+- **X:** @aritmiabattito
 
 ---
 
