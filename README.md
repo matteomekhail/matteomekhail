@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matteo Mekhail — Builder, Developer
+# Hi, I'm Matteo Mekhail — Builder, Developer
 
 I'm a software engineer and founder based in Sydney.  
 I build products, automate everything I can
@@ -7,7 +7,7 @@ Over the years, I've been:
 - Writing code since I was 14, yeah i know it may look like a long time, but minecraft mods in java were fun to write
 - Developing Full-Stack Application, that can vary from a basic website to a SaaS that i wish existed before when i needed them
 ---
-## 🚀 What I’m Building
+## What I’m Building
 
 - **StageTwo POS** — point-of-sale and hospitality software made with Laravel + React  
 - **PokeBench** -- is a fun benchmark to measure how good are AI models are in recognizing images, they not that great and you'd be surprised!
@@ -83,5 +83,5 @@ Zen Browser
 
 ---
 
-### Thanks for visiting my profile 🤝  
+### Thanks for visiting my profile
 If you’re building something cool feel free to reach out! Happy to contribute if i can
