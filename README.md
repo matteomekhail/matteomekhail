@@ -1,7 +1,7 @@
 # Hi, I'm Matteo Mekhail — Builder, Developer
 
-I'm a software engineer and founder based in Sydney.  
-I build products, automate everything I can
+I'm a software engineer in Sydney.  
+I build products, automate everything
 
 Over the years, I've been:
 - Writing code since I was 14, yeah i know it may look like a long time, but minecraft mods in java were fun to write
