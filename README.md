@@ -1,4 +1,4 @@
-# Hi, I'm Matteo Mekhail — Builder, Developer
+# Hi, I'm Matteo Mekhail
 
 I'm a software engineer in Sydney.  
 I build products, automate everything
