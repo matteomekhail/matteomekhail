@@ -17,8 +17,6 @@ Over the years, I've been:
 ## 🛠 Tech & Tools I Work With
 
 ### **Languages**
-
-### **Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
