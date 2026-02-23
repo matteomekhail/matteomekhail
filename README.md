@@ -62,17 +62,6 @@ Of course, LLM
 
 ---
 
-### **Tools I Can’t Live Without**
-
-GitHub (even tho it sucks sometimes)  
-Cursor (my main IDE now)  
-Stripe  
-Discord  
-Workos (Auth is a pain)  
-Zen Browser  
-
----
-
 ## 📬 Connect With Me 
 - **Instagram:** @matteomekhail  
 - **Email:** matteomekhail04@gmail.com
