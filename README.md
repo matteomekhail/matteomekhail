@@ -75,8 +75,7 @@ Zen Browser
 
 ---
 
-## 📬 Connect With Me
-- **GitHub:** you're already here 😄  
+## 📬 Connect With Me 
 - **Instagram:** @matteomekhail  
 - **Email:** matteomekhail04@gmail.com
 - **X:** @aritmiabattito
