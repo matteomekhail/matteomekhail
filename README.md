@@ -9,16 +9,6 @@ Over the years, I've been:
 
 ---
 
-### **AI & ML**
-
-MCP (Model Context Protocol)  
-OpenRouter models  
-Custom embeddings + clustering  
-Vision/image generation tools  
-Of course, LLM
-
----
-
 ## 📬 Connect With Me 
 - **Instagram:** @matteomekhail  
 - **Email:** matteomekhail04@gmail.com
